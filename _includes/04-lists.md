@@ -1,1 +1,16 @@
-Replace this with a list of your favorite things.
+<details>
+ <summary>Unordered Lists</summary>
+
+  ### Unordered Lists
+
+  List of favourite things
+
+
+  * Reading
+  * Music
+    * Dancing
+    * Writing
+
+  <hr>
+</details>
+
